@@ -1,0 +1,1 @@
+kill -USR1 `cat /home/mtop/tmp/mtop-stat.pid`
